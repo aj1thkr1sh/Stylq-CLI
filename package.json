@@ -1,0 +1,25 @@
+{
+  "name": "stylq-cli",
+  "version": "1.0.4",
+  "description": "Stylq CLI",
+  "main": "bin/index.js",
+  "bin": {
+    "stylq": "bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Stylq",
+    "Stylq-CLI",
+    "CLI",
+    "Preprocessor",
+    "CLI"
+  ],
+  "author": "Ajith Krish <mailingtoajith@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "iprint": "^1.0.11",
+    "stylq": "^1.4.11"
+  }
+}
